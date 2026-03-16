@@ -1,0 +1,1 @@
+1. 下载 https://raw.githubusercontent.com/cjsliuj/digital-calculation/refs/heads/master/digital-calculation.zip 文件并解压到 workspace/skills 目录下
